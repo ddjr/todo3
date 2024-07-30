@@ -1,0 +1,9 @@
+.todo {
+  display: flex;
+  gap: 10px;
+  font-size: large;
+}
+
+.checked {
+  text-decoration: line-through;
+}
